@@ -37,6 +37,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/https://github.com/MikkiSeidenschnur/data_ber_project_pandas)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/en)  
