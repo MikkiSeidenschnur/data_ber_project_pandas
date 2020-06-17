@@ -1,6 +1,6 @@
 <img src="https://www.bochum.de/C125830C0042AB74/CurrentBaseLink/W2BMMFEF129BOCMDE/$FILE/corona_3d_slider_ContentHalf.jpg" alt="Coronavirus :(" width="100"/>
 
-# Title of My Project
+# Flying with corona
 *[Shelley Obery, Kyrian Bourgi, Mikki Seidenschnur]*
 
 *[data analytics, Berlin & June 2020]*
@@ -15,9 +15,17 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+In January 2020, disaster struck, and the first case of the corona virus (COVID-19) was registrered outside the point of origin in Wuhan, China. It became apparent the current availbility of air travel had enabled an exponential spread of the deadly respiratory virus. As a direct response to contain the virus the German airline Lufthansa decreased the flights with 95% from the 19th of March.
+
+Studies suggest that the aviation industry is responsible for 2.4% of the total greenhouse gas emission [Graver, Zhang, Rutherford](https://theicct.org/sites/default/files/publications/ICCT_CO2-commercl-aviation-2018_20190918.pdf). 
 
 ## Questions & Hypotheses
+Following the extreme decline in air traffic, it seems interesting to make a correlation study, trying to prove/disporve the following hypothesis:
+
+** The aviation industry plays a major role in the total emission of greenhouse gasses on planet earth. This would suggest that the decrease in air traffic has caused a lower pollution level in general.
+
+To understand what 
+
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
 ## Dataset
