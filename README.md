@@ -24,10 +24,6 @@ Following the extreme decline in air traffic, it seems interesting to make a cor
 
 ** The aviation industry plays a major role in the total emission of greenhouse gasses on planet earth. This would suggest that the decrease in air traffic has caused a lower pollution level in general.
 
-To understand what 
-
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
-
 ## Dataset
 What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
 
@@ -46,5 +42,5 @@ What does your repository look like? Explain your folder and file structure.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/https://github.com/MikkiSeidenschnur/data_ber_project_pandas)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://slides.com/)
+[Trello](https://trello.com/b/K5FdrW5H/week-3-project)  
