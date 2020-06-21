@@ -22,7 +22,13 @@ Studies suggest that the aviation industry is responsible for 2.4% of the total 
 ## Questions & Hypotheses
 Following the extreme decline in air traffic, it seems interesting to make a correlation study, trying to prove/disporve the following hypothesis:
 
-** The aviation industry plays a major role in the total emission of greenhouse gasses on planet earth. This would suggest that the decrease in air traffic has caused a lower pollution level in general.
+1. The aviation industry plays a major role in the total emission of greenhouse gasses on planet earth. This would suggest that the decrease in air traffic has caused a lower pollution level in general.
+
+2. Covid-19 impacted cryptocurrencies positively 
+
+3. Quarantine measure benefited new innovative businesses market players that have digitalized processes.
+
+
 
 ## Dataset
 In order to confirm the trends we have been reasearching on, we have collected various datasets: 
